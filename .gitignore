@@ -1,0 +1,12 @@
+# Virtual environment
+env/
+
+
+__pycache__/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+config.ini
+
